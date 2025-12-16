@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Nahak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;
-Proficient+MERN+Stack;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Proficient+In+MERN+Stack;Building+Scalable+Apps" />
 </p>
 
 <p align="center">

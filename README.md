@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Nahak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter;MERN+Stack+Engineer;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;
+Proficient+MERN+Stack;Building+Scalable+Apps" />
 </p>
 
 <p align="center">
@@ -39,7 +40,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" />Email</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" />LinkedIn</a> ·
-  <a href="https://akash-nahak-portfolio.vercel.app/" align="center"><img src="https://skillicons.dev/icons?i=vercel" />Portfolio</a>
+  <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" /></a> ·
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" /></a> ·
+  <a href="https://akash-nahak-portfolio.vercel.app/" align="center"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>

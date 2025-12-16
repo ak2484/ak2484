@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,dart,react,nextjs,flutter,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,java,dart,react,nextjs,flutter,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
   <img height="42" src="https://cdn.simpleicons.org/auth0/white" />
 </p>
 

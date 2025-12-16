@@ -1,81 +1,114 @@
-# Hi 👋, I'm Akash Nahak
+<h1 align="center">Hi 👋, I'm Akash Nahak</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter;MERN+Stack+Engineer;Building+Scalable+Web+%26+Mobile+Apps)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter;MERN+Stack+Engineer;Building+Scalable+Web+%26+Mobile+Apps" />
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer from India 🇮🇳</b><br/>
+  React • Next.js • Flutter • MERN • PostgreSQL
+</p>
 
 ---
 
-## 👨‍💻 Summary
+## 👨‍💻 About Me
 
-Full-stack developer with hands-on experience in **React, Next.js, Flutter, Node.js, and databases (MongoDB, PostgreSQL)**.  
-Strong focus on **clean UI, performance optimization, state management**, and **team-based development**.
+- Full-stack developer focused on **clean UI**, **performance**, and **scalable architecture**
+- Experience with **React, Next.js, Flutter, Node.js**
+- Built **ERP systems, academic platforms, and mobile apps**
+- Comfortable working in **team-based, real-world projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript (ES6+), Java, Dart  
-**Frontend:** React, Next.js, Flutter, HTML, CSS, Tailwind CSS  
-**State & Auth:** Redux, Provider, Auth0  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, PostgreSQL, SQL  
-**Tools:** Git, GitHub
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,dart" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+### Tools & Auth
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase" />
+  <img height="48" src="https://cdn.simpleicons.org/auth0/white" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-**Frontend Developer Intern – GetFly Technologies** *(Jun 2025 – Present)*  
-- Developed React.js UI components and optimized page performance  
-- Implemented Redux for scalable state management  
-- Debugged and tested UI for cross-device consistency  
+**Frontend Developer Intern — GetFly Technologies**  
+*React.js, Redux*  
+- Built and optimized UI components  
+- Improved state management and performance  
+- Debugged UI issues across devices  
 
-**Frontend Developer – Exam Section Portal** *(Jan 2025 – Present)*  
-- Maintained and improved deployed academic exam module  
-- Enhanced UI/UX based on faculty feedback  
-- Coordinated frontend integration with backend services  
+**Frontend Developer — Exam Section Portal**  
+*React.js*  
+- Maintained deployed academic exam system  
+- Improved UI/UX based on faculty feedback  
 
 ---
 
 ## 📌 Projects
 
-### **DineFlow-ERP** | *Group Project*
+### 🍽️ DineFlow-ERP (Restaurant ERP) — *Group Project*
 **Next.js • PostgreSQL • Auth0 • Tailwind CSS**  
-Restaurant ERP system with secure authentication, responsive dashboards, and team-based architecture.
+- Restaurant ERP system for managing operations  
+- Secure authentication with Auth0  
+- Responsive dashboards and role-based access  
 
 ---
 
-### **Construction DPR App**
+### 🏗️ Construction DPR App
 **Flutter • Provider • Image Picker**  
-Mobile app for daily construction progress reporting with validation, image uploads, and clean Material UI.
+- Mobile app for daily construction progress reporting  
+- Form validation, image uploads, Material UI  
 
 ---
 
-### **AcademicHub**
+### 🎓 AcademicHub
 **MERN Stack • Tailwind CSS**  
-Academic management system with attendance, assignments, notices, and role-based access.
-
----
-
-### **Clothify**
-**MERN Stack • MongoDB**  
-E-commerce platform with cart, orders, and product management features.
+- Academic management system  
+- Attendance, assignments, notices, role-based access  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
----
-
-## 📫 Contact
-
-📧 **Email:** akashnahak736@gmail.com  
-💼 **LinkedIn:** [Add LinkedIn URL]  
-🌐 **Portfolio:** [Add Portfolio URL]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak2484&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
 
 ---
 
-> *“Building clean, scalable, and impactful software solutions.”*
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:akashnahak736@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://akash-nahak-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Clean Code • Scalable Systems • Real-World Impact</i>
+</p>

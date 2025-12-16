@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer from India 🇮🇳</b> · Clean UI · Scalable Systems
+  <b>Full-Stack Developer from India 🇮🇳</b> React • Next.js • Flutter • MERN • PostgreSQL
 </p>
 
 ---
@@ -20,25 +20,26 @@
 
 ## 💼 Experience
 **Frontend Intern — GetFly Technologies** · React, Redux  
-**Frontend Dev — Exam Section Portal** · React
+**Frontend Dev — Exam Section Portal** · MERN Stack
 
 ---
 
 ## 📌 Projects
 **DineFlow-ERP** *(Next.js, PostgreSQL, Auth0)* — Restaurant ERP (Group)  
 **Construction DPR App** *(Flutter, Provider)*  
-**AcademicHub** *(MERN)* · **Clothify** *(MERN)*
+**AcademicHub** *(MERN)* ·
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak2484&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:akashnahak736@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" />Email</a> ·
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" />LinkedIn</a> ·
+  <a href="https://akash-nahak-portfolio.vercel.app/" align="center"><img src="https://skillicons.dev/icons?i=vercel" />Portfolio</a>
 </p>

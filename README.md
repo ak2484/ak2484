@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,dart,react,nextjs,flutter,tailwind,nodejs,express,mongodb,postgres,redux,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,java,dart,react,nextjs,flutter,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman,mysql" />
   <img height="42" src="https://cdn.simpleicons.org/auth0/white" />
 </p>
 
@@ -37,9 +37,9 @@
 </p>
 
 ---
-
+## 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" /></a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" /></a> ·
+  <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" /></a> 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
   <a href="https://akash-nahak-portfolio.vercel.app/" align="center"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>

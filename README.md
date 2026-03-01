@@ -31,9 +31,15 @@
 
 ---
 
-<<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak2484&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ak2484&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=tokyonight&hide_border=true" width="39%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak2484&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---

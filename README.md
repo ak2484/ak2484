@@ -31,15 +31,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak2484&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+<<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak2484&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak2484&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:akashnahak736@gmail.com" align="center"><img src="https://skillicons.dev/icons?i=gmail" /></a> 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" align="center"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+  <a href="https://www.linkedin.com/in/akash-nahak-9459ba2b3/" align="center"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
   <a href="https://akash-nahak-portfolio.vercel.app/" align="center"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>

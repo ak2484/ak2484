@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer from India 🇮🇳</b> React • Next.js • Flutter • MERN • PostgreSQL
+  <b>Full-Stack Developer from India 🇮🇳</b> React • Next.js • Java • Spring Boot • MERN • PostgreSQL
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,dart,react,nextjs,flutter,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=js,java,spring,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
   <img height="42" src="https://cdn.simpleicons.org/auth0/white" />
 </p>
 
